@@ -4,10 +4,10 @@ import starlight from "@astrojs/starlight";
 
 export default defineConfig({
   site: "https://gabrielzemuner.github.io",
-  base: "estudocs",
+  base: "estudocs/",
   integrations: [
     starlight({
-      title: "Meus Estudos",
+      title: "EstuDocs",
       social: [
         {
           icon: "github",

@@ -1,8 +1,10 @@
 import { defineRouteMiddleware } from "@astrojs/starlight/route-data";
 
+const base = import.meta.env.BASE_URL;
+
 const GUIDES = [
-  { prefix: "/js-antes-do-react/", label: "JS antes do React" },
-  { prefix: "/typescript/", label: "TypeScript" },
+  { prefix: `${base}js-antes-do-react/`, label: "JS antes do React" },
+  { prefix: `${base}typescript/`, label: "TypeScript" },
 ];
 
 function normalize(pathname: string) {
