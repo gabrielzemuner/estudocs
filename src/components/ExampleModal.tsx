@@ -29,9 +29,9 @@ export default function ExampleModal({
         onClick={() => setOpen(true)}
         className="
           inline-flex items-center gap-2
-          rounded-xl border border-[var(--sl-color-gray-5)]
-          bg-[var(--sl-color-gray-6)] px-4 py-2
-          text-[var(--sl-color-text)]
+          rounded-xl border border-(--sl-color-gray-5)
+          bg-(--sl-color-gray-6) px-4 py-2
+          text-(--sl-color-text)
           hover:opacity-90 active:opacity-80
         "
       >
@@ -45,7 +45,7 @@ export default function ExampleModal({
           aria-label={title}
           onClick={() => setOpen(false)}
           className="
-            fixed inset-0 z-[999999]
+            fixed inset-0 z-999999
             grid place-items-center
             bg-black/70 p-4
             backdrop-blur-sm
@@ -56,8 +56,8 @@ export default function ExampleModal({
             className="
               w-full max-w-3xl
               max-h-[85vh] overflow-auto
-              rounded-2xl border border-[var(--sl-color-gray-5)]
-              bg-[var(--sl-color-bg)] text-[var(--sl-color-text)]
+              rounded-2xl border border-(--sl-color-gray-5)
+              bg-(--sl-color-bg) text-(--sl-color-text)
               shadow-2xl
               p-5
             "
@@ -69,9 +69,9 @@ export default function ExampleModal({
                 type="button"
                 onClick={() => setOpen(false)}
                 className="
-                  rounded-xl border border-[var(--sl-color-gray-5)]
+                  rounded-xl border border-(--sl-color-gray-5)
                   bg-transparent px-3 py-1.5
-                  text-[var(--sl-color-text)]
+                  text-(--sl-color-text)
                   hover:bg-white/5 active:bg-white/10
                 "
               >

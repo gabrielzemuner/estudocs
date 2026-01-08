@@ -26,6 +26,6 @@ export const onRequest = defineRouteMiddleware((context) => {
     );
 
   // muda o título e faz ele apontar pra home do guia atual
-  context.locals.starlightRoute.siteTitle = guide.label;
-  context.locals.starlightRoute.siteTitleHref = guide.prefix;
+  // context.locals.starlightRoute.siteTitle = guide.label;
+  // context.locals.starlightRoute.siteTitleHref = guide.prefix;
 });
