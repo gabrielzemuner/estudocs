@@ -1,0 +1,16 @@
+---
+const { href, title, badge, description } = Astro.props;
+---
+
+<a class="cardLink" href={href} target="_blank" rel="noopener noreferrer">
+  <div class="card">
+    <div class="cardTitle">
+      <span>{title}</span>
+      {badge ? <span class="badge">{badge}</span> : null}
+    </div>
+
+    <p class="cardDesc">{description}</p>
+
+    <span class="cardCta">Abrir em nova aba →</span>
+  </div>
+</a>

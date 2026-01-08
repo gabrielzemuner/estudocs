@@ -1,0 +1,29 @@
+---
+title: Início
+slug: /
+template: splash
+sidebar:
+  hidden: true
+---
+
+import GuideCard from "../../components/GuideCard.astro";
+import "../../styles/home.css";
+
+<div class="home">
+  <p class="subtitle">Escolha um guia para abrir em uma nova aba.</p>
+  <h2>Guias</h2>
+  <div class="cards">
+    <GuideCard
+      href="/js-antes-do-react/"
+      title="JS antes do React"
+      badge="JavaScript"
+      description="Fundamentos e padrões de JavaScript antes de entrar no React."
+    />
+    <GuideCard
+      href="/typescript/"
+      title="TypeScript"
+      badge="TS"
+      description="Tipos, generics e exemplos práticos com foco em uso real."
+    />
+  </div>
+</div>
