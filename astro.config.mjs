@@ -16,8 +16,8 @@ function autoGroupNested(label, subgroups) {
 // https://astro.build/config
 export default defineConfig({
   site: "https://gabrielzemuner.github.io",
-  base: "/estudocs/",
-  
+  base: "/estudocs",
+
   integrations: [
     starlight({
       title: "EstuDocs",
