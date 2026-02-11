@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c787cd8d713ea47e",
+        "id": "fcc638abc233b27a",
         "type": "tabs",
         "children": [
           {
-            "id": "78c9e98fb72ec32b",
+            "id": "f0d0950a9f9fecc1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/react/primeiros-passos.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "primeiros-passos"
             }
           }
         ]
@@ -180,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78c9e98fb72ec32b",
+  "active": "f0d0950a9f9fecc1",
   "lastOpenFiles": [
+    "src/content/docs/playground.md",
+    "src/content/docs/react/primeiros-passos.md",
     "README.md",
     "src/assets/houston.webp",
     "Sem título.md"
