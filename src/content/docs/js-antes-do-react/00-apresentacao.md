@@ -1,0 +1,17 @@
+---
+title: Apresentação
+# sidebar:
+#   hidden: true
+hero:
+  tagline: Guia de JavaScript para preparar pro React.
+  actions:
+    - text: Comece por aqui
+      link: ./01-nullish-coalescing-operator/
+      icon: right-arrow
+      variant: primary
+---
+
+Guia sobre `TUDO que você deve estudar de JavaScript antes do React`.
+
+Baseado no vídeo: **Diego Fernandes** — Rocketseat:  
+[Assistir no YouTube](https://www.youtube.com/watch?v=37SwqREHRGI)

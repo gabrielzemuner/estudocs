@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ed5a4637f15bb684",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d128dcb4457d40a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e54eb2fb1ba8255c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "duvidas-gerais/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1ea08f745eb6151",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe9e0757acce812d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f95276a1a99bbd8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3a518b0f6f9c37ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "ba5a2afeade007d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56220c5b32a0b335",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dda9b190406243c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f66abd16097a314",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "duvidas-gerais/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para index"
+            }
+          },
+          {
+            "id": "c9f38e391bfdce9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "duvidas-gerais/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para index"
+            }
+          },
+          {
+            "id": "7f1d13da1ee55425",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38ff9133af41070f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "0745e0ab2d39434a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "duvidas-gerais/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "e54eb2fb1ba8255c",
+  "lastOpenFiles": [
+    "duvidas-gerais/image-1.png",
+    "duvidas-gerais/image.png",
+    "playground.md",
+    "js-antes-do-react/00-apresentacao.md",
+    "js-antes-do-react/10-es-modules.md",
+    "js-antes-do-react/09-promises.md",
+    "js-antes-do-react/08-template-literals.md",
+    "js-antes-do-react/01-nullish-coalescing-operator.md",
+    "js-antes-do-react/07-metodos-array.md",
+    "js-antes-do-react/06-optional-chaining.md",
+    "js-antes-do-react/05-short-syntax.md",
+    "js-antes-do-react/05-short-syntax.mdx",
+    "js-antes-do-react/04-rest-operator.md",
+    "js-antes-do-react/03-destructuring.md",
+    "js-antes-do-react/02-objects.md",
+    "celke/laravel/02-auditoria-log-relacionamento.md",
+    "js-antes-do-react/01-nullish-coalescing-operator.mdx",
+    "js-antes-do-react",
+    "celke/laravel/01-introducao-ao-laravel.md",
+    "docker/readme.md",
+    "celke/laravel/index.md",
+    "celke/laravel",
+    "celke",
+    "anotacoes-gerais/vscode-configs.md",
+    "anotacoes-gerais/image-4.png",
+    "anotacoes-gerais/image-3.png",
+    "anotacoes-gerais/image-2.png",
+    "anotacoes-gerais/image-1.png",
+    "anotacoes-gerais/image.png",
+    "anotacoes-gerais/docs.md",
+    "anotacoes-gerais/pnpm.md",
+    "pnpm/pnpm.md",
+    "anotacoes-gerais/git.md",
+    "git/git.md",
+    "anotacoes-gerais",
+    "image-1.png",
+    "image.png",
+    "duvidas-gerais/index.md",
+    "duvidas-gerais/README.md",
+    "duvidas-gerais",
+    "git/README.md",
+    "git",
+    "pnpm",
+    "react"
+  ]
+}
