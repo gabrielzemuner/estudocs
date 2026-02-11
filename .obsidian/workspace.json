@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "ed5a4637f15bb684",
+    "id": "6fb9b65737c16c53",
     "type": "split",
     "children": [
       {
-        "id": "8d128dcb4457d40a",
+        "id": "c787cd8d713ea47e",
         "type": "tabs",
         "children": [
           {
-            "id": "e54eb2fb1ba8255c",
+            "id": "78c9e98fb72ec32b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "duvidas-gerais/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Nova aba"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c1ea08f745eb6151",
+    "id": "849bef391b52d69d",
     "type": "split",
     "children": [
       {
-        "id": "fe9e0757acce812d",
+        "id": "b9f39e33b4df5b13",
         "type": "tabs",
         "children": [
           {
-            "id": "2f95276a1a99bbd8",
+            "id": "db06ca83ea76a589",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "3a518b0f6f9c37ee",
+            "id": "a156fc4c1e60d61b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "ba5a2afeade007d2",
+            "id": "15119f68163d29a8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "56220c5b32a0b335",
+    "id": "97a554344160983d",
     "type": "split",
     "children": [
       {
-        "id": "7dda9b190406243c",
+        "id": "c5e92cc88088272d",
         "type": "tabs",
         "children": [
           {
-            "id": "4f66abd16097a314",
+            "id": "221c308aa60bfaaa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "duvidas-gerais/index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para index"
+              "title": "Links inversos para README"
             }
           },
           {
-            "id": "c9f38e391bfdce9c",
+            "id": "560be091e768f9bc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "duvidas-gerais/index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para index"
+              "title": "Links de saída para README"
             }
           },
           {
-            "id": "7f1d13da1ee55425",
+            "id": "6a9115f35d620907",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +133,7 @@
             }
           },
           {
-            "id": "38ff9133af41070f",
+            "id": "2d33618f86d095a5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +147,18 @@
             }
           },
           {
-            "id": "0745e0ab2d39434a",
+            "id": "27dea8f9e7236089",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "duvidas-gerais/index.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de index"
+              "title": "Sumário de README"
             }
           }
         ]
@@ -180,54 +176,14 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f95276a1a99bbd8",
+  "active": "78c9e98fb72ec32b",
   "lastOpenFiles": [
-    "duvidas-gerais/image-1.png",
-    "duvidas-gerais/image.png",
-    "playground.md",
-    "js-antes-do-react/00-apresentacao.md",
-    "js-antes-do-react/10-es-modules.md",
-    "js-antes-do-react/09-promises.md",
-    "js-antes-do-react/08-template-literals.md",
-    "js-antes-do-react/01-nullish-coalescing-operator.md",
-    "js-antes-do-react/07-metodos-array.md",
-    "js-antes-do-react/06-optional-chaining.md",
-    "js-antes-do-react/05-short-syntax.md",
-    "js-antes-do-react/05-short-syntax.mdx",
-    "js-antes-do-react/04-rest-operator.md",
-    "js-antes-do-react/03-destructuring.md",
-    "js-antes-do-react/02-objects.md",
-    "celke/laravel/02-auditoria-log-relacionamento.md",
-    "js-antes-do-react/01-nullish-coalescing-operator.mdx",
-    "js-antes-do-react",
-    "celke/laravel/01-introducao-ao-laravel.md",
-    "docker/readme.md",
-    "celke/laravel/index.md",
-    "celke/laravel",
-    "celke",
-    "anotacoes-gerais/vscode-configs.md",
-    "anotacoes-gerais/image-4.png",
-    "anotacoes-gerais/image-3.png",
-    "anotacoes-gerais/image-2.png",
-    "anotacoes-gerais/image-1.png",
-    "anotacoes-gerais/image.png",
-    "anotacoes-gerais/docs.md",
-    "anotacoes-gerais/pnpm.md",
-    "pnpm/pnpm.md",
-    "anotacoes-gerais/git.md",
-    "git/git.md",
-    "anotacoes-gerais",
-    "image-1.png",
-    "image.png",
-    "duvidas-gerais/index.md",
-    "duvidas-gerais/README.md",
-    "duvidas-gerais",
-    "git/README.md",
-    "git",
-    "pnpm",
-    "react"
+    "README.md",
+    "src/assets/houston.webp",
+    "Sem título.md"
   ]
 }
